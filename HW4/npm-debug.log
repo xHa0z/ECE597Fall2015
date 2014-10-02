@@ -1,0 +1,57 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', '-g', 'socket.io' ]
+2 info using npm@1.3.10
+3 info using node@v0.10.25
+4 verbose cache add [ 'socket.io', null ]
+5 verbose cache add name=undefined spec="socket.io" args=["socket.io",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'socket.io',
+6 verbose parsed url   path: 'socket.io',
+6 verbose parsed url   href: 'socket.io' }
+7 silly makeCacheDir cache dir uid, gid [ 0, 0 ]
+8 silly lockFile 71475bfd-socket-io socket.io
+9 verbose lock socket.io /root/.npm/71475bfd-socket-io.lock
+10 silly lockFile 71475bfd-socket-io socket.io
+11 silly lockFile 71475bfd-socket-io socket.io
+12 verbose addNamed [ 'socket.io', '' ]
+13 verbose addNamed [ null, '*' ]
+14 silly lockFile c03de861-socket-io socket.io@
+15 verbose lock socket.io@ /root/.npm/c03de861-socket-io.lock
+16 silly addNameRange { name: 'socket.io', range: '*', hasData: false }
+17 verbose url raw socket.io
+18 verbose url resolving [ 'https://registry.npmjs.org/', './socket.io' ]
+19 verbose url resolved https://registry.npmjs.org/socket.io
+20 info trying registry request attempt 1 at 15:32:11
+21 http GET https://registry.npmjs.org/socket.io
+22 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND
+23 info trying registry request attempt 2 at 15:32:21
+24 http GET https://registry.npmjs.org/socket.io
+25 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND
+26 info trying registry request attempt 3 at 15:33:21
+27 http GET https://registry.npmjs.org/socket.io
+28 silly lockFile c03de861-socket-io socket.io@
+29 silly lockFile c03de861-socket-io socket.io@
+30 error network getaddrinfo ENOTFOUND
+30 error network This is most likely not a problem with npm itself
+30 error network and is related to network connectivity.
+30 error network In most cases you are behind a proxy or have bad network settings.
+30 error network
+30 error network If you are behind a proxy, please make sure that the
+30 error network 'proxy' config is set properly.  See: 'npm help config'
+31 error System Linux 3.8.13-bone64
+32 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "-g" "socket.io"
+33 error cwd /root/exercises/realtime
+34 error node -v v0.10.25
+35 error npm -v 1.3.10
+36 error syscall getaddrinfo
+37 error code ENOTFOUND
+38 error errno ENOTFOUND
+39 verbose exit [ 1, true ]
