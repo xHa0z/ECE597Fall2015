@@ -1,0 +1,465 @@
+  CC      net/ipv6/tunnel6.mod.o
+  LD [M]  net/ipv6/tunnel6.ko
+  CC      net/ipv6/xfrm6_mode_beet.mod.o
+  LD [M]  net/ipv6/xfrm6_mode_beet.ko
+  CC      net/ipv6/xfrm6_mode_ro.mod.o
+  LD [M]  net/ipv6/xfrm6_mode_ro.ko
+  CC      net/ipv6/xfrm6_mode_transport.mod.o
+  LD [M]  net/ipv6/xfrm6_mode_transport.ko
+  CC      net/ipv6/xfrm6_mode_tunnel.mod.o
+  LD [M]  net/ipv6/xfrm6_mode_tunnel.ko
+  CC      net/ipv6/xfrm6_tunnel.mod.o
+  LD [M]  net/ipv6/xfrm6_tunnel.ko
+  CC      net/irda/ircomm/ircomm-tty.mod.o
+  LD [M]  net/irda/ircomm/ircomm-tty.ko
+  CC      net/irda/ircomm/ircomm.mod.o
+  LD [M]  net/irda/ircomm/ircomm.ko
+  CC      net/irda/irda.mod.o
+  LD [M]  net/irda/irda.ko
+  CC      net/irda/irlan/irlan.mod.o
+  LD [M]  net/irda/irlan/irlan.ko
+  CC      net/irda/irnet/irnet.mod.o
+  LD [M]  net/irda/irnet/irnet.ko
+  CC      net/key/af_key.mod.o
+  LD [M]  net/key/af_key.ko
+  CC      net/l2tp/l2tp_core.mod.o
+  LD [M]  net/l2tp/l2tp_core.ko
+  CC      net/l2tp/l2tp_debugfs.mod.o
+  LD [M]  net/l2tp/l2tp_debugfs.ko
+  CC      net/l2tp/l2tp_eth.mod.o
+  LD [M]  net/l2tp/l2tp_eth.ko
+  CC      net/l2tp/l2tp_ip.mod.o
+  LD [M]  net/l2tp/l2tp_ip.ko
+  CC      net/l2tp/l2tp_ip6.mod.o
+  LD [M]  net/l2tp/l2tp_ip6.ko
+  CC      net/l2tp/l2tp_netlink.mod.o
+  LD [M]  net/l2tp/l2tp_netlink.ko
+  CC      net/l2tp/l2tp_ppp.mod.o
+  LD [M]  net/l2tp/l2tp_ppp.ko
+  CC      net/lapb/lapb.mod.o
+  LD [M]  net/lapb/lapb.ko
+  CC      net/llc/llc.mod.o
+  LD [M]  net/llc/llc.ko
+  CC      net/llc/llc2.mod.o
+  LD [M]  net/llc/llc2.ko
+  CC      net/mac80211/mac80211.mod.o
+  LD [M]  net/mac80211/mac80211.ko
+  CC      net/mac802154/mac802154.mod.o
+  LD [M]  net/mac802154/mac802154.ko
+  CC      net/netfilter/ipvs/ip_vs.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs.ko
+  CC      net/netfilter/ipvs/ip_vs_dh.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_dh.ko
+  CC      net/netfilter/ipvs/ip_vs_ftp.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_ftp.ko
+  CC      net/netfilter/ipvs/ip_vs_lblc.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_lblc.ko
+  CC      net/netfilter/ipvs/ip_vs_lblcr.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_lblcr.ko
+  CC      net/netfilter/ipvs/ip_vs_lc.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_lc.ko
+  CC      net/netfilter/ipvs/ip_vs_nq.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_nq.ko
+  CC      net/netfilter/ipvs/ip_vs_pe_sip.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_pe_sip.ko
+  CC      net/netfilter/ipvs/ip_vs_rr.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_rr.ko
+  CC      net/netfilter/ipvs/ip_vs_sed.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_sed.ko
+  CC      net/netfilter/ipvs/ip_vs_sh.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_sh.ko
+  CC      net/netfilter/ipvs/ip_vs_wlc.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_wlc.ko
+  CC      net/netfilter/ipvs/ip_vs_wrr.mod.o
+  LD [M]  net/netfilter/ipvs/ip_vs_wrr.ko
+  CC      net/netfilter/nf_conntrack.mod.o
+  LD [M]  net/netfilter/nf_conntrack.ko
+  CC      net/netfilter/nf_conntrack_amanda.mod.o
+  LD [M]  net/netfilter/nf_conntrack_amanda.ko
+  CC      net/netfilter/nf_conntrack_broadcast.mod.o
+  LD [M]  net/netfilter/nf_conntrack_broadcast.ko
+  CC      net/netfilter/nf_conntrack_ftp.mod.o
+  LD [M]  net/netfilter/nf_conntrack_ftp.ko
+  CC      net/netfilter/nf_conntrack_h323.mod.o
+  LD [M]  net/netfilter/nf_conntrack_h323.ko
+  CC      net/netfilter/nf_conntrack_irc.mod.o
+  LD [M]  net/netfilter/nf_conntrack_irc.ko
+  CC      net/netfilter/nf_conntrack_netbios_ns.mod.o
+  LD [M]  net/netfilter/nf_conntrack_netbios_ns.ko
+  CC      net/netfilter/nf_conntrack_netlink.mod.o
+  LD [M]  net/netfilter/nf_conntrack_netlink.ko
+  CC      net/netfilter/nf_conntrack_pptp.mod.o
+  LD [M]  net/netfilter/nf_conntrack_pptp.ko
+  CC      net/netfilter/nf_conntrack_proto_dccp.mod.o
+  LD [M]  net/netfilter/nf_conntrack_proto_dccp.ko
+  CC      net/netfilter/nf_conntrack_proto_gre.mod.o
+  LD [M]  net/netfilter/nf_conntrack_proto_gre.ko
+  CC      net/netfilter/nf_conntrack_proto_sctp.mod.o
+  LD [M]  net/netfilter/nf_conntrack_proto_sctp.ko
+  CC      net/netfilter/nf_conntrack_proto_udplite.mod.o
+  LD [M]  net/netfilter/nf_conntrack_proto_udplite.ko
+  CC      net/netfilter/nf_conntrack_sane.mod.o
+  LD [M]  net/netfilter/nf_conntrack_sane.ko
+  CC      net/netfilter/nf_conntrack_sip.mod.o
+  LD [M]  net/netfilter/nf_conntrack_sip.ko
+  CC      net/netfilter/nf_conntrack_tftp.mod.o
+  LD [M]  net/netfilter/nf_conntrack_tftp.ko
+  CC      net/netfilter/nf_nat.mod.o
+  LD [M]  net/netfilter/nf_nat.ko
+  CC      net/netfilter/nf_nat_amanda.mod.o
+  LD [M]  net/netfilter/nf_nat_amanda.ko
+  CC      net/netfilter/nf_nat_ftp.mod.o
+  LD [M]  net/netfilter/nf_nat_ftp.ko
+  CC      net/netfilter/nf_nat_irc.mod.o
+  LD [M]  net/netfilter/nf_nat_irc.ko
+  CC      net/netfilter/nf_nat_proto_dccp.mod.o
+  LD [M]  net/netfilter/nf_nat_proto_dccp.ko
+  CC      net/netfilter/nf_nat_proto_sctp.mod.o
+  LD [M]  net/netfilter/nf_nat_proto_sctp.ko
+  CC      net/netfilter/nf_nat_proto_udplite.mod.o
+  LD [M]  net/netfilter/nf_nat_proto_udplite.ko
+  CC      net/netfilter/nf_nat_sip.mod.o
+  LD [M]  net/netfilter/nf_nat_sip.ko
+  CC      net/netfilter/nf_nat_tftp.mod.o
+  LD [M]  net/netfilter/nf_nat_tftp.ko
+  CC      net/netfilter/nf_tproxy_core.mod.o
+  LD [M]  net/netfilter/nf_tproxy_core.ko
+  CC      net/netfilter/nfnetlink.mod.o
+  LD [M]  net/netfilter/nfnetlink.ko
+  CC      net/netfilter/nfnetlink_acct.mod.o
+  LD [M]  net/netfilter/nfnetlink_acct.ko
+  CC      net/netfilter/nfnetlink_cttimeout.mod.o
+  LD [M]  net/netfilter/nfnetlink_cttimeout.ko
+  CC      net/netfilter/nfnetlink_log.mod.o
+  LD [M]  net/netfilter/nfnetlink_log.ko
+  CC      net/netfilter/nfnetlink_queue.mod.o
+  LD [M]  net/netfilter/nfnetlink_queue.ko
+  CC      net/netfilter/x_tables.mod.o
+  LD [M]  net/netfilter/x_tables.ko
+  CC      net/netfilter/xt_CHECKSUM.mod.o
+  LD [M]  net/netfilter/xt_CHECKSUM.ko
+  CC      net/netfilter/xt_CLASSIFY.mod.o
+  LD [M]  net/netfilter/xt_CLASSIFY.ko
+  CC      net/netfilter/xt_CONNSECMARK.mod.o
+  LD [M]  net/netfilter/xt_CONNSECMARK.ko
+  CC      net/netfilter/xt_CT.mod.o
+  LD [M]  net/netfilter/xt_CT.ko
+  CC      net/netfilter/xt_DSCP.mod.o
+  LD [M]  net/netfilter/xt_DSCP.ko
+  CC      net/netfilter/xt_HL.mod.o
+  LD [M]  net/netfilter/xt_HL.ko
+  CC      net/netfilter/xt_HMARK.mod.o
+  LD [M]  net/netfilter/xt_HMARK.ko
+  CC      net/netfilter/xt_IDLETIMER.mod.o
+  LD [M]  net/netfilter/xt_IDLETIMER.ko
+  CC      net/netfilter/xt_LED.mod.o
+  LD [M]  net/netfilter/xt_LED.ko
+  CC      net/netfilter/xt_LOG.mod.o
+  LD [M]  net/netfilter/xt_LOG.ko
+  CC      net/netfilter/xt_NETMAP.mod.o
+  LD [M]  net/netfilter/xt_NETMAP.ko
+  CC      net/netfilter/xt_NFLOG.mod.o
+  LD [M]  net/netfilter/xt_NFLOG.ko
+  CC      net/netfilter/xt_NFQUEUE.mod.o
+  LD [M]  net/netfilter/xt_NFQUEUE.ko
+  CC      net/netfilter/xt_RATEEST.mod.o
+  LD [M]  net/netfilter/xt_RATEEST.ko
+  CC      net/netfilter/xt_REDIRECT.mod.o
+  LD [M]  net/netfilter/xt_REDIRECT.ko
+  CC      net/netfilter/xt_SECMARK.mod.o
+  LD [M]  net/netfilter/xt_SECMARK.ko
+  CC      net/netfilter/xt_TCPMSS.mod.o
+  LD [M]  net/netfilter/xt_TCPMSS.ko
+  CC      net/netfilter/xt_TCPOPTSTRIP.mod.o
+  LD [M]  net/netfilter/xt_TCPOPTSTRIP.ko
+  CC      net/netfilter/xt_TEE.mod.o
+  LD [M]  net/netfilter/xt_TEE.ko
+  CC      net/netfilter/xt_TPROXY.mod.o
+  LD [M]  net/netfilter/xt_TPROXY.ko
+  CC      net/netfilter/xt_TRACE.mod.o
+  LD [M]  net/netfilter/xt_TRACE.ko
+  CC      net/netfilter/xt_addrtype.mod.o
+  LD [M]  net/netfilter/xt_addrtype.ko
+  CC      net/netfilter/xt_cluster.mod.o
+  LD [M]  net/netfilter/xt_cluster.ko
+  CC      net/netfilter/xt_comment.mod.o
+  LD [M]  net/netfilter/xt_comment.ko
+  CC      net/netfilter/xt_connbytes.mod.o
+  LD [M]  net/netfilter/xt_connbytes.ko
+  CC      net/netfilter/xt_connlimit.mod.o
+  LD [M]  net/netfilter/xt_connlimit.ko
+  CC      net/netfilter/xt_connmark.mod.o
+  LD [M]  net/netfilter/xt_connmark.ko
+  CC      net/netfilter/xt_conntrack.mod.o
+  LD [M]  net/netfilter/xt_conntrack.ko
+  CC      net/netfilter/xt_cpu.mod.o
+  LD [M]  net/netfilter/xt_cpu.ko
+  CC      net/netfilter/xt_dccp.mod.o
+  LD [M]  net/netfilter/xt_dccp.ko
+  CC      net/netfilter/xt_devgroup.mod.o
+  LD [M]  net/netfilter/xt_devgroup.ko
+  CC      net/netfilter/xt_dscp.mod.o
+  LD [M]  net/netfilter/xt_dscp.ko
+  CC      net/netfilter/xt_ecn.mod.o
+  LD [M]  net/netfilter/xt_ecn.ko
+  CC      net/netfilter/xt_esp.mod.o
+  LD [M]  net/netfilter/xt_esp.ko
+  CC      net/netfilter/xt_hashlimit.mod.o
+  LD [M]  net/netfilter/xt_hashlimit.ko
+  CC      net/netfilter/xt_helper.mod.o
+  LD [M]  net/netfilter/xt_helper.ko
+  CC      net/netfilter/xt_hl.mod.o
+  LD [M]  net/netfilter/xt_hl.ko
+  CC      net/netfilter/xt_iprange.mod.o
+  LD [M]  net/netfilter/xt_iprange.ko
+  CC      net/netfilter/xt_ipvs.mod.o
+  LD [M]  net/netfilter/xt_ipvs.ko
+  CC      net/netfilter/xt_length.mod.o
+  LD [M]  net/netfilter/xt_length.ko
+  CC      net/netfilter/xt_limit.mod.o
+  LD [M]  net/netfilter/xt_limit.ko
+  CC      net/netfilter/xt_mac.mod.o
+  LD [M]  net/netfilter/xt_mac.ko
+  CC      net/netfilter/xt_mark.mod.o
+  LD [M]  net/netfilter/xt_mark.ko
+  CC      net/netfilter/xt_multiport.mod.o
+  LD [M]  net/netfilter/xt_multiport.ko
+  CC      net/netfilter/xt_nat.mod.o
+  LD [M]  net/netfilter/xt_nat.ko
+  CC      net/netfilter/xt_nfacct.mod.o
+  LD [M]  net/netfilter/xt_nfacct.ko
+  CC      net/netfilter/xt_osf.mod.o
+  LD [M]  net/netfilter/xt_osf.ko
+  CC      net/netfilter/xt_owner.mod.o
+  LD [M]  net/netfilter/xt_owner.ko
+  CC      net/netfilter/xt_physdev.mod.o
+  LD [M]  net/netfilter/xt_physdev.ko
+  CC      net/netfilter/xt_pkttype.mod.o
+  LD [M]  net/netfilter/xt_pkttype.ko
+  CC      net/netfilter/xt_policy.mod.o
+  LD [M]  net/netfilter/xt_policy.ko
+  CC      net/netfilter/xt_quota.mod.o
+  LD [M]  net/netfilter/xt_quota.ko
+  CC      net/netfilter/xt_rateest.mod.o
+  LD [M]  net/netfilter/xt_rateest.ko
+  CC      net/netfilter/xt_realm.mod.o
+  LD [M]  net/netfilter/xt_realm.ko
+  CC      net/netfilter/xt_recent.mod.o
+  LD [M]  net/netfilter/xt_recent.ko
+  CC      net/netfilter/xt_sctp.mod.o
+  LD [M]  net/netfilter/xt_sctp.ko
+  CC      net/netfilter/xt_socket.mod.o
+  LD [M]  net/netfilter/xt_socket.ko
+  CC      net/netfilter/xt_state.mod.o
+  LD [M]  net/netfilter/xt_state.ko
+  CC      net/netfilter/xt_statistic.mod.o
+  LD [M]  net/netfilter/xt_statistic.ko
+  CC      net/netfilter/xt_string.mod.o
+  LD [M]  net/netfilter/xt_string.ko
+  CC      net/netfilter/xt_tcpmss.mod.o
+  LD [M]  net/netfilter/xt_tcpmss.ko
+  CC      net/netfilter/xt_tcpudp.mod.o
+  LD [M]  net/netfilter/xt_tcpudp.ko
+  CC      net/netfilter/xt_time.mod.o
+  LD [M]  net/netfilter/xt_time.ko
+  CC      net/netfilter/xt_u32.mod.o
+  LD [M]  net/netfilter/xt_u32.ko
+  CC      net/netrom/netrom.mod.o
+  LD [M]  net/netrom/netrom.ko
+  CC      net/nfc/hci/hci.mod.o
+  LD [M]  net/nfc/hci/hci.ko
+  CC      net/nfc/nci/nci.mod.o
+  LD [M]  net/nfc/nci/nci.ko
+  CC      net/nfc/nfc.mod.o
+  LD [M]  net/nfc/nfc.ko
+  CC      net/openvswitch/openvswitch.mod.o
+  LD [M]  net/openvswitch/openvswitch.ko
+  CC      net/packet/af_packet_diag.mod.o
+  LD [M]  net/packet/af_packet_diag.ko
+  CC      net/phonet/phonet.mod.o
+  LD [M]  net/phonet/phonet.ko
+  CC      net/phonet/pn_pep.mod.o
+  LD [M]  net/phonet/pn_pep.ko
+  CC      net/rds/rds.mod.o
+  LD [M]  net/rds/rds.ko
+  CC      net/rds/rds_tcp.mod.o
+  LD [M]  net/rds/rds_tcp.ko
+  CC      net/rfkill/rfkill-gpio.mod.o
+  LD [M]  net/rfkill/rfkill-gpio.ko
+  CC      net/rfkill/rfkill-regulator.mod.o
+  LD [M]  net/rfkill/rfkill-regulator.ko
+  CC      net/rfkill/rfkill.mod.o
+  LD [M]  net/rfkill/rfkill.ko
+  CC      net/rose/rose.mod.o
+  LD [M]  net/rose/rose.ko
+  CC      net/rxrpc/af-rxrpc.mod.o
+  LD [M]  net/rxrpc/af-rxrpc.ko
+  CC      net/rxrpc/rxkad.mod.o
+  LD [M]  net/rxrpc/rxkad.ko
+  CC      net/sched/act_csum.mod.o
+  LD [M]  net/sched/act_csum.ko
+  CC      net/sched/act_gact.mod.o
+  LD [M]  net/sched/act_gact.ko
+  CC      net/sched/act_ipt.mod.o
+  LD [M]  net/sched/act_ipt.ko
+  CC      net/sched/act_mirred.mod.o
+  LD [M]  net/sched/act_mirred.ko
+  CC      net/sched/act_nat.mod.o
+  LD [M]  net/sched/act_nat.ko
+  CC      net/sched/act_pedit.mod.o
+  LD [M]  net/sched/act_pedit.ko
+  CC      net/sched/act_police.mod.o
+  LD [M]  net/sched/act_police.ko
+  CC      net/sched/act_simple.mod.o
+  LD [M]  net/sched/act_simple.ko
+  CC      net/sched/act_skbedit.mod.o
+  LD [M]  net/sched/act_skbedit.ko
+  CC      net/sched/cls_basic.mod.o
+  LD [M]  net/sched/cls_basic.ko
+  CC      net/sched/cls_fw.mod.o
+  LD [M]  net/sched/cls_fw.ko
+  CC      net/sched/cls_route.mod.o
+  LD [M]  net/sched/cls_route.ko
+  CC      net/sched/cls_rsvp.mod.o
+  LD [M]  net/sched/cls_rsvp.ko
+  CC      net/sched/cls_rsvp6.mod.o
+  LD [M]  net/sched/cls_rsvp6.ko
+  CC      net/sched/cls_tcindex.mod.o
+  LD [M]  net/sched/cls_tcindex.ko
+  CC      net/sched/em_canid.mod.o
+  LD [M]  net/sched/em_canid.ko
+  CC      net/sched/em_cmp.mod.o
+  LD [M]  net/sched/em_cmp.ko
+  CC      net/sched/em_meta.mod.o
+  LD [M]  net/sched/em_meta.ko
+  CC      net/sched/em_nbyte.mod.o
+  LD [M]  net/sched/em_nbyte.ko
+  CC      net/sched/em_text.mod.o
+  LD [M]  net/sched/em_text.ko
+  CC      net/sched/em_u32.mod.o
+  LD [M]  net/sched/em_u32.ko
+  CC      net/sched/sch_atm.mod.o
+  LD [M]  net/sched/sch_atm.ko
+  CC      net/sched/sch_cbq.mod.o
+  LD [M]  net/sched/sch_cbq.ko
+  CC      net/sched/sch_codel.mod.o
+  LD [M]  net/sched/sch_codel.ko
+  CC      net/sched/sch_drr.mod.o
+  LD [M]  net/sched/sch_drr.ko
+  CC      net/sched/sch_dsmark.mod.o
+  LD [M]  net/sched/sch_dsmark.ko
+  CC      net/sched/sch_fq_codel.mod.o
+  LD [M]  net/sched/sch_fq_codel.ko
+  CC      net/sched/sch_gred.mod.o
+  LD [M]  net/sched/sch_gred.ko
+  CC      net/sched/sch_hfsc.mod.o
+  LD [M]  net/sched/sch_hfsc.ko
+  CC      net/sched/sch_htb.mod.o
+  LD [M]  net/sched/sch_htb.ko
+  CC      net/sched/sch_multiq.mod.o
+  LD [M]  net/sched/sch_multiq.ko
+  CC      net/sched/sch_netem.mod.o
+  LD [M]  net/sched/sch_netem.ko
+  CC      net/sched/sch_prio.mod.o
+  LD [M]  net/sched/sch_prio.ko
+  CC      net/sched/sch_red.mod.o
+  LD [M]  net/sched/sch_red.ko
+  CC      net/sched/sch_sfq.mod.o
+  LD [M]  net/sched/sch_sfq.ko
+  CC      net/sched/sch_tbf.mod.o
+  LD [M]  net/sched/sch_tbf.ko
+  CC      net/sched/sch_teql.mod.o
+  LD [M]  net/sched/sch_teql.ko
+  CC      net/sctp/sctp.mod.o
+  LD [M]  net/sctp/sctp.ko
+  CC      net/sctp/sctp_probe.mod.o
+  LD [M]  net/sctp/sctp_probe.ko
+  CC      net/tipc/tipc.mod.o
+  LD [M]  net/tipc/tipc.ko
+  CC      net/unix/unix_diag.mod.o
+  LD [M]  net/unix/unix_diag.ko
+  CC      net/wanrouter/wanrouter.mod.o
+  LD [M]  net/wanrouter/wanrouter.ko
+  CC      net/wimax/wimax.mod.o
+  LD [M]  net/wimax/wimax.ko
+  CC      net/wireless/cfg80211.mod.o
+  LD [M]  net/wireless/cfg80211.ko
+  CC      net/wireless/lib80211.mod.o
+  LD [M]  net/wireless/lib80211.ko
+  CC      net/wireless/lib80211_crypt_ccmp.mod.o
+  LD [M]  net/wireless/lib80211_crypt_ccmp.ko
+  CC      net/wireless/lib80211_crypt_tkip.mod.o
+  LD [M]  net/wireless/lib80211_crypt_tkip.ko
+  CC      net/wireless/lib80211_crypt_wep.mod.o
+  LD [M]  net/wireless/lib80211_crypt_wep.ko
+  CC      net/xfrm/xfrm_algo.mod.o
+  LD [M]  net/xfrm/xfrm_algo.ko
+  CC      net/xfrm/xfrm_ipcomp.mod.o
+  LD [M]  net/xfrm/xfrm_ipcomp.ko
+  CC      net/xfrm/xfrm_user.mod.o
+  LD [M]  net/xfrm/xfrm_user.ko
+  CC      sound/ac97_bus.mod.o
+  LD [M]  sound/ac97_bus.ko
+  CC      sound/core/seq/oss/snd-seq-oss.mod.o
+  LD [M]  sound/core/seq/oss/snd-seq-oss.ko
+  CC      sound/core/seq/snd-seq-device.mod.o
+  LD [M]  sound/core/seq/snd-seq-device.ko
+  CC      sound/core/seq/snd-seq-midi-event.mod.o
+  LD [M]  sound/core/seq/snd-seq-midi-event.ko
+  CC      sound/core/seq/snd-seq-midi.mod.o
+  LD [M]  sound/core/seq/snd-seq-midi.ko
+  CC      sound/core/seq/snd-seq.mod.o
+  LD [M]  sound/core/seq/snd-seq.ko
+  CC      sound/core/snd-hwdep.mod.o
+  LD [M]  sound/core/snd-hwdep.ko
+  CC      sound/pci/ac97/snd-ac97-codec.mod.o
+  LD [M]  sound/pci/ac97/snd-ac97-codec.ko
+  CC      sound/usb/6fire/snd-usb-6fire.mod.o
+  LD [M]  sound/usb/6fire/snd-usb-6fire.ko
+  CC      sound/usb/caiaq/snd-usb-caiaq.mod.o
+  LD [M]  sound/usb/caiaq/snd-usb-caiaq.ko
+  CC      sound/usb/misc/snd-ua101.mod.o
+  LD [M]  sound/usb/misc/snd-ua101.ko
+  CC      sound/usb/snd-usb-audio.mod.o
+  LD [M]  sound/usb/snd-usb-audio.ko
+  CC      sound/usb/snd-usbmidi-lib.mod.o
+  LD [M]  sound/usb/snd-usbmidi-lib.ko
+-----------------------------
+make -j1 ARCH=arm LOCALVERSION=-xuez CROSS_COMPILE=/home/xuez/bb-kernel/dl/gcc-linaro-arm-linux-gnueabihf-4.7-2013.04-20130415_linux/bin/arm-linux-gnueabihf- dtbs
+-----------------------------
+‘arch/arm/boot/zImage’ -> ‘/home/xuez/bb-kernel/deploy/3.8.13-xuez.zImage’
+‘.config’ -> ‘/home/xuez/bb-kernel/deploy/config-3.8.13-xuez’
+-rwxrwxr-x 1 xuez xuez 5.3M Oct 16 09:04 /home/xuez/bb-kernel/deploy/3.8.13-xuez.zImage
+-----------------------------
+Building modules archive...
+Compressing 3.8.13-xuez-modules.tar.gz...
+-rw-rw-r-- 1 xuez xuez 12M Oct 16 09:04 /home/xuez/bb-kernel/deploy/3.8.13-xuez-modules.tar.gz
+-----------------------------
+Building firmware archive...
+Compressing 3.8.13-xuez-firmware.tar.gz...
+-rw-rw-r-- 1 xuez xuez 1.2M Oct 16 09:04 /home/xuez/bb-kernel/deploy/3.8.13-xuez-firmware.tar.gz
+-----------------------------
+Building dtbs archive...
+‘./arch/arm/boot/dts/am335x-boneblack.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/am335x-boneblack.dtb’
+‘./arch/arm/boot/dts/omap3-tobi.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap3-tobi.dtb’
+‘./arch/arm/boot/dts/am335x-bone.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/am335x-bone.dtb’
+‘./arch/arm/boot/dts/omap4-panda.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap4-panda.dtb’
+‘./arch/arm/boot/dts/omap4-sdp.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap4-sdp.dtb’
+‘./arch/arm/boot/dts/am335x-evm.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/am335x-evm.dtb’
+‘./arch/arm/boot/dts/omap2420-h4.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap2420-h4.dtb’
+‘./arch/arm/boot/dts/am335x-evmsk.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/am335x-evmsk.dtb’
+‘./arch/arm/boot/dts/arduino-tre.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/arduino-tre.dtb’
+‘./arch/arm/boot/dts/omap3-beagle-xm.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap3-beagle-xm.dtb’
+‘./arch/arm/boot/dts/omap4-panda-a4.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap4-panda-a4.dtb’
+‘./arch/arm/boot/dts/omap3-beagle.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap3-beagle.dtb’
+‘./arch/arm/boot/dts/omap4-var-som.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap4-var-som.dtb’
+‘./arch/arm/boot/dts/am335x-tester.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/am335x-tester.dtb’
+‘./arch/arm/boot/dts/omap3-evm.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap3-evm.dtb’
+‘./arch/arm/boot/dts/omap5-evm.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap5-evm.dtb’
+‘./arch/arm/boot/dts/omap4-panda-es.dtb’ -> ‘/home/xuez/bb-kernel/deploy/tmp/omap4-panda-es.dtb’
+Compressing 3.8.13-xuez-dtbs.tar.gz...
+-rw-rw-r-- 1 xuez xuez 37K Oct 16 09:04 /home/xuez/bb-kernel/deploy/3.8.13-xuez-dtbs.tar.gz
+-----------------------------
+Script Complete
+eewiki.net: [user@localhost:~$ export kernel_version=3.8.13-xuez]
+
